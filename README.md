@@ -116,6 +116,7 @@ The selected threshold increased recall, allowing more diabetic cases to be iden
 
 ## Repository Structure.
 
+```test
 pima-diabetes-analysis/
 │
 ├── data/
@@ -125,6 +126,7 @@ pima-diabetes-analysis/
 │ ├── pima_diabetes_eda.ipynb
 │ └── pima_diabetes_modelling.ipynb
 │
+├── .gitignore
 ├── requirements.txt
 └── README.md
 

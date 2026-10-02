@@ -129,6 +129,7 @@ pima-diabetes-analysis/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
@@ -144,5 +145,5 @@ Python 3.9+
 git clone https://github.com/victoriaokereke/pima-diabetes-analysis.git
 cd pima-diabetes-analysis
 pip install -r requirements.txt
-
+```
 ---
